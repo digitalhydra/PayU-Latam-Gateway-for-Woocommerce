@@ -3,17 +3,11 @@ PayU-Latam-Gateway-for-Woocommerce
 
 PayU Latinoamérica Payment Gateway for WooCommerce. Recibe pagos en internet en Latinoamérica desde cualquier parte del mundo.
 
-=== Plugin Name ===
 Contributors: digitalhydra
-Donate link: http://www.thecodeisintheair.com/wordpress-plugins/woocommerce-payu-latam-gateway-plugin/
 Tags: WooCommerce, Payment Gateway, PayU Latam, PayU Latinoamerica, Pagos en linea Colombia, Pagos en linea Latinoamerica
-Requires at least: 3.5.1
-Tested up to: 3.8-beta-1
-Stable tag: 1.0.0
+Requires at least: Wordpress  3.5.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-PayU Latam Payment Gateway for WooCommerce. Recibe pagos en internet en latinoamérica desde cualquier parte del mundo.
 
 == Description ==
 
